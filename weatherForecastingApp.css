@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(210, 212, 205);
+  font-family: Arial, sans-serif;
+}
+
+/* style for the h1 element */
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.heading {
+  color: solid black;
+  margin-left: 20px;
+}
+    /* style for the h2 element */
+.h2-heading{
+  color: brown;
+}
+
+/* style for the #weather-container element */
+#weather-container {
+  width: 400px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+/* style for the #location element */
+#location {
+  color: blue;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+/* style for the #temperature element */
+#temperature {
+  font-size: 48px;
+  color: solid black;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* style for the #description element */
+#description {
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+/* style for the #humidity element */
+#humidity {
+  color: solid black;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
